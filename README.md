@@ -5,7 +5,7 @@ This script tests the read and write speed of a USB device by creating and measu
 
 ## Installation and Setup
 To run the script, follow these steps:
-1. Clone the repository to your local machine `git clone https://github.com/username/repository.git`
+1. Clone the repository to your local machine `git clone https://github.com/davidtkeane/usb-speed-auto-checker.git`
 2. Navigate to the directory where the repository was cloned.
 3. Install dependencies by running `pip install -r requirements.txt`.
 4. Connect a USB device to your computer
